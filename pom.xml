@@ -72,6 +72,13 @@
 		 <enabled>true</enabled>
 		 </snapshots>
       </repository>
+      <repository>
+         <id>central</id>
+         <url>http://192.168.1.104:8081/nexus/content/repositories/central/</url>
+		 <snapshots>
+		 <enabled>true</enabled>
+		 </snapshots>
+      </repository>
 	</repositories>
 	
 
